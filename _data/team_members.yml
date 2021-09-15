@@ -9,10 +9,10 @@
   education4: 
   education5: 
 
-- name: Joe
+- name: Joseph Richardson
   photo: blankpic.jpg
   info: PhD Candidate
-  email: 
+  email: jrichardson60@gatech.edu
   number_educ: 1
   education1: Hello
   education2: 
@@ -30,34 +30,43 @@
 - name: Yi-han Lu
   photo: blankpic.jpg
   info: PhD Candidate
-  email: 
+  email: ylu428@gatech.edu
   number_educ: 1
   education1: BA. University of Minnesota
   education2: 
   education3: 
 
-- name: MD
-  photo: blankpic.jpg
+- name: Md Shariful
+  photo: md.jpg
   info: PhD Candidate
-  email: 
+  email: mislam62@gatech.edu
   number_educ: 1
   education1: 
   education2: 
   education3: 
 
-- name: Prakash
+- name: Prakash Khanal
   photo: blankpic.jpg
   info: PhD Candidate
-  email: 
+  email: pkhanal3@gatech.edu>
   number_educ: 1
   education1: 
   education2: 
   education3: 
 
-- name: Josie
+- name: Josie Hickman
   photo: blankpic.jpg
   info: PhD Student
-  email: 
+  email: jhickman33@gatech.edu
+  number_educ: 1
+  education1: 
+  education2: 
+  education3: 
+
+- name: Sayan Palui
+  photo: blankpic.jpg
+  info: PhD Student
+  email: spalui3@gatech.edu
   number_educ: 1
   education1: 
   education2: 
