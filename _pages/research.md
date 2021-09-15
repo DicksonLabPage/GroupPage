@@ -11,6 +11,7 @@ permalink: /research/
 This page is still under construction. Thank you for your patience.
 
 Our goal is to
+
 **Synchronously Amplified Fluorescence Image Recovery (SAFIRe)**
 
 To be implemented
