@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is Prof. Robert M Dickson's research group website
 # baseurl: "" #Dev only
 baseurl: "/GroupPage" # Uncomment when publish
-url: "http://localhost:4000"
+url: "https://dicksonlabpage.github.io/"
 
 include:
   - .htaccess
