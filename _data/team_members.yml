@@ -11,10 +11,55 @@
 
 - name: Joe
   photo: blankpic.jpg
-  info: 
+  info: PhD Candidate
   email: 
   number_educ: 1
   education1: Hello
+  education2: 
+  education3: 
+
+- name: Baijie Peng
+  photo: blankpic.jpg
+  info: PhD Candidate
+  email: bpeng34@gatech.edu
+  number_educ: 1
+  education1: BA. University of Minnesota
+  education2: 
+  education3: 
+
+- name: Yi-han Lu
+  photo: blankpic.jpg
+  info: PhD Candidate
+  email: 
+  number_educ: 1
+  education1: BA. University of Minnesota
+  education2: 
+  education3: 
+
+- name: MD
+  photo: blankpic.jpg
+  info: PhD Candidate
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  education3: 
+
+- name: Prakash
+  photo: blankpic.jpg
+  info: PhD Candidate
+  email: 
+  number_educ: 1
+  education1: 
+  education2: 
+  education3: 
+
+- name: Josie
+  photo: blankpic.jpg
+  info: PhD Student
+  email: 
+  number_educ: 1
+  education1: 
   education2: 
   education3: 
 

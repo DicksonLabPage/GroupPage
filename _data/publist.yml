@@ -1,15 +1,15 @@
 - title: "Optically Modulated and Optically Activated Delayed Fluorescent Proteins through Dark State Engineering"
-  image: TBG_SL.png
-  description: Modulating fluorescent protein emission holds great potential for increasing readout sensitivity for applications in biological imaging and detection. Here, we identify and engineer optically modulated yellow fluorescent proteins (EYFP, originally 10C, but renamed EYFP later, and mVenus) to yield new emitters with distinct modulation profiles and unique, optically gated, delayed fluorescence. 
+  description: Modulating fluorescent protein emission holds great potential for increasing readout sensitivity for applications in biological imaging and detection. Here, we identify and engineer optically modulated yellow fluorescent proteins (EYFP, originally 10C, but renamed EYFP later, and mVenus) to yield new emitters with distinct modulation profiles and unique, optically gated, delayed fluorescence. The parent YFPs are individually modulatable through secondary illumination, depopulating a long-lived dark state to dynamically increase fluorescence. A single point mutation introduced near the chromophore in each of these YFPs provides access to a second, even longer-lived modulatable dark state, while a different double mutant renders EYFP unmodulatable.
   authors: Baijie Peng, Ryan Dikdan, Shannon E Hill, Athéna C Patterson-Orazem, Raquel L Lieberman, Christoph J Fahrni, Robert M Dickson
+  image: jpc2021.jpeg
   link:
     url: https://pubs.acs.org/doi/full/10.1021/acs.jpcb.1c00649
     display:  J. Phys. Chem. B 2021, 125, 20, 5200–5209
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "Synchronously amplified photoacoustic image recovery (SAPhIRe)"
-  image: TBG_SL.png
+  image: pa2021.jpg
   description: In molecular and cellular photoacoustic imaging with exogenous contrast agents, image contrast is plagued by background resulting from endogenous absorbers in tissue. By using optically modulatable nanoparticles, we develop ultra-sensitive photoacoustic imaging by rejecting endogenous background signals and drastically improving signal contrast through time-delayed pump-probe pulsed laser illumination. Gated by prior pump excitation, modulatable photoacoustic (mPA) signals are recovered from unmodulatable background through simple, real-time image processing to yield background-free photoacoustic signal recovery within tissue mimicking phantoms and from ex-vivo tissues. Inherently multimodal, the fluorescence and mPA sensitivity improvements demonstrate the promise of Synchronously Amplified Photoacoustic Image Recovery (SAPhIRe) for PA imaging in diagnosis and therapy.
   authors: Aida A Demissie, Donald VanderLaan, Md S Islam, Stanislav Emelianov, Robert M Dickson
   link:
@@ -17,62 +17,98 @@
     display:  Photoacoustics Volume 20, December 2020, 100198
 
   highlight: 1
-  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
+  news2:
 
-- title: Imaging Cooper pairing of heavy fermions in CeCoIn5
-  image: Pub_CeCoIn5.png
-  description:
-    The heavy Fermion superconductor CeCoIn5 has a d-wave gap with nodes along the (1,1) direction, as we find using QPI.
-  authors:
-    MP Allan* & F Massee*, DK Morr, J van Dyke, AW Rost, AP Mackenzie, C Petrovic, JC Davis
-  link:
-    url: http://www.nature.com/nphys/journal/vaop/ncurrent/abs/nphys2671.html
-    display: Nature Physics 9, 468 (2013)
-  highlight: 1
-  news1: <a style="color:#FF0000; text-decoration:underline" href="http://www.nature.com/nphys/journal/v9/n8/full/nphys2708.html">Featured in 'News and Views' by L Taillefer</a>
-  news2: See also <a href="http://phys.org/news/2013-07-imaging-electron-pairing-simple-magnetic.html"> Phys.org</a>, <a href="http://davisgroup.lassp.cornell.edu/CeCoIn5_DoE.html">DoE headliner</a>
 
-- title: How Kondo-holes create intense nanoscale heavy-fermion hybridization disorder
-  image: dummy.png
-  description: ""
-  authors: MH Hamidian, AR Schmidt, IA Firmo, MP Allan, P Bradley, JD Garrett, TJ Williams, GM Luke, Y Dubi, AV Balatsky, JC Davis
+- title: Single Photon vs Two Photon Excitation of Silver Nanocluster
+  image:
+  description: Silver nanodots, nanoparticles and nanoclusters have been of immense interest to researchers for some time now. A lot has been published in this field from synthesis to optical properties of various types of silver nanoclusters. In this work we explore the impact of polarized excitation on modulatability and fluorescence enhancement of silver (Ag) nanocluster. Ag nanoclusters as previously reported are enhancible and modulatable, however, for pathological application purposes emission in NIR even IR is desirable, so that the fluorescence signal detection over the auto-fluorescence background signal in vivo mode becomes easier. In a preliminary work we have seen a rise in anisotropic values beyond the maximum steady state anisotropy of 0.4 when the sample is excited using two colored laser light.
+  authors: J Tripathy, YH Lu, Md S Islam, Robert M Dickson
   link:
-    url: http://www.pnas.org/content/108/45/18233
-    display:  PNAS 108, 18233 (2011)
+    url: https://iopscience.iop.org/article/10.1088/1757-899X/798/1/012028/meta
+    display: IOP Conf. Ser. Mater. Sci. Eng. 798 012028
+
   highlight: 0
   news2:
 
-- title: Nematic electronic structure in the “parent” state of the iron-based superconductor Ca(Fe1−xCox)2As2
-  image: Pub_nemat1.png
-  description:
-    We discovered an electronic nematic in the iron based superconductor Co-CaFe2As2! This state is by now confirmed and quite well characterized  by transport, photoemission, and more SI-STM experiments.
-  authors:
-    T-M Chuang* & MP Allan*, J Lee, Y Xie, N Ni, SL Bud’ko, GS Boebinger PC Canfield, JC Davis
+- title: Triplet shelving in fluorescein and its derivatives provides delayed, background-free fluorescence detection
+  image: jpca2021.jpeg
+  description: Fluorescence from the xanthene dyes rose bengal, erythrosine B, eosin Y, and fluorescein is modulated by reversibly optically populating and depopulating their long-lived triplet states through coillumination with a second, long-wavelength laser. Here, we show that repumping the S1 state from the triplet generates strong, nanosecond-lived optically activated delayed fluorescence (OADF), microseconds to milliseconds after primary pulsed excitation. This time-delayed emission upon long-wavelength illumination generates fluorescence after triplet shelving and is a major contribution to fluorescence enhancement/modulation. The time-delayed and background-free OADF component is further increased using a >1 μs burst continuous wave excitation scheme to increase the steady-state triplet populations, yielding strong OADF even from strongly emissive fluorescein.
+  authors: Aida A Demissie, Robert M Dickson
   link:
-    url: http://www.sciencemag.org/content/327/5962/181
-    display: Science 327, 181 (2010)
+    url: https://doi.org/10.1021/acs.jpca.9b11040
+    display: J. Phys. Chem. A 2020, 124, 7, 1437–1443
+
   highlight: 1
-  news1: <a style="color:#FF0000" href="http://www.sciencemag.org/content/327/5962/155"> Featured in a ‘Perspective’ by E Fradkin &amp; SA Kivelson</a>
-  news2: See also <a  href="https://www.newscientist.com/article/dn18354-electron-spotting-could-explain-warm-superconductors/">Article on NewScientist</a> by Colin Barras
+  news2:
 
-- title: Heavy d-electron quasiparticle interference and real-space electronic structure of Sr3Ru2O7
-  image: Pub_hBN.png
-  description:
-    QPI in Sr327.
-  authors: Jinho Lee* & M. P. Allan*, M. A.Wang, J. Farrell, S. A. Grigera, F. Baumberger, J. C. Davis and A. P. Mackenzie
+- title: Facile autofluorescence suppression enabling tracking of single viruses in live cells
+  image:
+  description: Live cell fluorescence imaging is the method of choice for studying dynamic processes, such as nuclear transport, vesicular trafficking, and virus entry and egress. However, endogenous cellular autofluorescence masks a useful fluorescence signal, limiting the ability to reliably visualize low-abundance fluorescent proteins. Here, we employed synchronously amplified fluorescence image recovery (SAFIRe), which optically alters ground versus photophysical dark state populations within fluorescent proteins to modulate and selectively detect their background-free emission. Using a photoswitchable rsFastLime fluorescent protein combined with a simple illumination and image-processing scheme, we demonstrate the utility of this approach for suppressing undesirable, unmodulatable fluorescence background.
+  authors: Yen-Cheng Chen, Chetan Sood, Ashwanth C Francis, Gregory B Melikyan, Robert M Dickson
   link:
-    url: https://www.nature.com/nphys/journal/v5/n11/full/nphys1397.html
-    display: Nature Physics 5, 800 (2009)
-  highlight: 0
+    url: https://doi.org/10.1074/jbc.RA119.010268
+    display: Journal of Biological Chemistry 294 (50), 19111-19118
 
-- title: Fermi surface and van Hove singularities in the itinerant metamagnet Sr3Ru2O7
-  image: Pub_hBN.png
+  highlight: 0
+  news2:
+
+- title: A Split DNA Scaffold for a Green Fluorescent Silver Cluster
+  image:
+  description: Silver molecules are chromophores with diverse spectra and rich photophysics, and DNA strands act as ligands that develop specific molecular silver species. For example, C4AC4T*C3GT4 selectively yields a Ag106+ fluorophore with λex/λem = 490/550 nm. This single-stranded DNA coordinates and protects the cluster, and its integrity was challenged by breaking the phosphodiester backbone at the innocuous T*. The resulting C4AC4T and C3GT4 fragments also develop the same Ag106+ fluorophore but only when all three components (two fragments + Ag) are present
+  authors: Chen He, Peter M Goodwin, Ahmed I Yunus, Robert M Dickson, Jeffrey T Petty
+  link:
+    url: https://doi.org/10.1021/acs.jpcc.9b03773
+    display: J. Phys. Chem. C 2019, 123, 28, 17588–17597
+
+  highlight: 0
+  news2:
+
+- title: Optically activated delayed fluorescence through control of cyanine dye photophysics
+  image:
+  description: Merocyanine 540 fluorescence can be enhanced by optically depopulating dark photoisomer states to regenerate the fluorescence-generating manifold of the all-trans isomer. Here, we utilize a competing modulation route, long-wavelength coexcitation of the trans triplet population to not only modulate fluorescence through enhanced ground-state recovery but also generate optically activated delayed fluorescence (OADF) with longer-wavelength co-illumination. Such OADF (∼580 nm) is directly observed with pulsed fluorescence excitation at 532 nm, followed by long-wavelength (637 nm) continuous wave depopulation of the photogenerated triplet by repopulating the emissive S1 state. Such reverse intersystem crossing (RISC) results in ns-lived fluorescence delayed by several microseconds after the initial primary excitation pulse and the prompt 1 ns-lived fluorescence that it induces. 
+  authors: Daniel P Mahoney, Aida A Demissie, Robert M Dickson
+  link:
+    url: https://doi.org/10.1021/acs.jpca.9b01333
+    display: J. Phys. Chem. A 2019, 123, 16, 3599–3606
+
+  highlight: 0
+  news2:
+
+- title: Autofluorescence Suppression by Optically Controlling Dark States of Photoswitchable Fluorescent Proteins on Commercial Microscopes
+  image:
+  description: We have developed a novel structured illumination microscopy method to map chromatin motions in mammalian cell nuclei. The method relies on a diffractive optical element that generates a lattice of photoactivated spots in cells expressing histones tagged with photoactivatable GFP. Photoactivated spots correspond to chromatin microdomains that can be tracked with time-lapse imaging. Chromatin motions are thought to influence most if not all genomic functions including gene expression, DNA replication, and DNA repair. Yet the mechanisms governing chromatin diffusion are not well understood, particularly in the context of the DNA damage response. Most studies in yeast have shown increased chromatin motions after DNA cleavage, proposed to facilitate homology search during homologous recombination.
+  authors: Yen-Cheng Chen, Chetan Sood, Robert M Dickson, Gregory B Melikyan
+  link:
+    url: https://www.cell.com/biophysj/pdf/S0006-3495(18)32796-6.pdf
+    display: Biophysical Journal 116 (3), 283a
+
+  highlight: 0
+  news2:
+
+- title: Atomic Structure of a Fluorescent Ag8 Cluster Templated by a Multistranded DNA Scaffold
+  image:
+  description: Multinuclear silver clusters encapsulated by DNA exhibit size-tunable emission spectra and rich photophysics, but their atomic organization is poorly understood. Herein, we describe the structure of one such hybrid chromophore, a green-emitting Ag8 cluster arranged in a Big Dipper-shape bound to the oligonucleotide A2C4. Three 3′ cytosine metallo-base pairs stabilize a parallel A-form-like duplex with a 5′ adenine-rich pocket, which binds a metallic, trapezoidal-shaped Ag5 moiety via Ag–N bonds to endo- and exocyclic nitrogens of cytosine and adenine. The unique DNA configuration, constrained coordination environment, and templated Ag8 cluster arrangement highlight the reciprocity between the silvers and DNA in adopting this structure. These first atomic details of a DNA-encapsulated Ag cluster fluorophore illuminate many aspects of biological assembly, nanoscience, and metal cluster photophysics.
+  authors: Dustin JE Huard, Aida Demissie, Dahye Kim, David Lewis, Robert M Dickson, Jeffrey T Petty, Raquel L Lieberman
+  link:
+    url: https://doi.org/10.1021/jacs.8b12203
+    display: J. Am. Chem. Soc. 2019, 141, 29, 11465–11470
+
+  highlight: 0
+  news2:
+
+- title: On/off blinking and switching behaviour of single molecules of green fluorescent protein
+  image: Nature1997.png
   description:
-    We determine the Fermi surface of Sr327.
+    Optical studies of individual molecules at low and room temperature can provide information about the dynamics of local environments in solids, liquids and biological systems unobscured by ensemble averaging 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14. Here we present a study of the photophysical behaviour of single molecules of the green fluorescent protein (GFP) derived from the jellyfish Aequorea victoria. Wild-type GFP and its mutant have attracted interest as fluorescent biological labels because the fluorophore may be formed in vivo 15, 16. GFP mutants immobilized in aereated aqueous polymer gels and excited by 488-nm light undergo repeated cycles of fluorescent emission (‘blinking’) on a timescale of several seconds—behaviour that would be unobservable in bulk studies.
   authors:
-    A Tamai, MP Allan, JF Mercure, W Meevasana, R Dunkel, DH Lu, RS Perry, AP Mackenzie, David J Singh, Z-X Shen, F Baumberger
+    Robert M Dickson, Andrew B Cubitt, Roger Y Tsien, William E Moerner
   link:
-    url: http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.101.026407
-    display: Phys. Rev. Lett. 101, 026407 (2008)
-  highlight: 0
+    url: https://www.nature.com/articles/41048
+    display: Nature volume 388, pages355–358 (1997)
+  highlight: 1
+  news1: <a style="color:#FF0000" href="https://www.nobelprize.org/prizes/chemistry/2014/summary/"> Key publications of the Nobel Prize for Chemistry 2014</a>
+  news2: See also <a  href="https://news.stanford.edu/news/2014/october/moerner-nobel-prize-100814.html">Press Release</a> from Stanford.
+
+
 

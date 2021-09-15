@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Group highlights
 
-(For a full list of publications and patents see [below](#full-list-of-publications) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=p8fJn9EAAAAJ).
+For a full list of patents see [below](#patents) or go to [Google Scholar](https://scholar.google.com/citations?hl=en&user=p8fJn9EAAAAJ) for a completegit list of publications.
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
@@ -55,13 +55,19 @@ permalink: /publications/
 
 ## Patents
 
-To be implemented
+<em>RM Dickson, TH Huang</em><br />Methods for Rapid Determinations of Antibiotic Susceptibility Phenotypes<br /><a href="https://patentimages.storage.googleapis.com/6b/1a/61/8fac2dc27ff01a/US20190338334A1.pdf"> US Patent App. 16/477,260 </a>
 
-<!-- <em>Milan P Allan, S Gröblacher, RA Norte, M Leeuwenhoek</em><br />Novel atomic force microscopy probes with phononic crystals<br /> PCT/NL20-20/050797 (2020)
+<em>RM Dickson, J Zheng</em><br /> Nano-sized optical fluorescence labels and uses thereof<br /> <a href="https://patentimages.storage.googleapis.com/0a/70/60/1edc3fabd0bf60/US7611907.pdf">US Patent 7,611,907</a>
 
-<em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
+<em>RM Dickson, J Zheng, LA Capadona, JT Petty, SA Patel, M Weck</em><br />Raman-Enhancing, and Non-Linear Optically Active Nano-Sized Optical Labels and Uses Thereof<br /> <a href="https://patentimages.storage.googleapis.com/2b/98/85/e8d982d4962e26/US20080118912A1.pdf">US Patent App. 10/598,722</a>
 
-## Full List of publications
+<em>RM Dickson, LA Lyon</em><br />Apparatus and method of optical transfer and control in plasmon supporting metal nanostructures<br /> <a href="https://patentimages.storage.googleapis.com/b3/2a/70/5aeb0f686883ac/US6539156.pdf">US Patent 6,539,156 </a>
+
+<em>RY Tsien, R Heim, AB Cubitt, RM Dickson, WE Moerner</em><br />Photochromic fluorescent proteins and optical memory storage devices based on fluorescent proteins<br /> <a href="https://patentimages.storage.googleapis.com/f4/9f/78/92851c52c57849/US6046925.pdf">US Patent 6,046,925</a>
+
+<em></em>
+
+## A longer list of publications
 
 {% for publi in site.data.publist %}
 
