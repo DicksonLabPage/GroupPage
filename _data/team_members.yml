@@ -1,0 +1,25 @@
+- name: Dr. Robert M Dickson
+  photo: nobel.jpg
+  info: Vasser Woolley Professor of Chemistry
+  email: dickson@chemistry.gatech.edu
+  number_educ: 5
+  education1: PhD of at <a href="http://www.google.com">somelink</a>, University of Chicago
+  education2: 
+  education3: 
+  education4: 
+  education5: 
+
+- name: Joe
+  photo: blankpic.jpg
+  info: 
+  email: 
+  number_educ: 1
+  education1: Hello
+  education2: 
+  education3: 
+
+
+
+
+
+
