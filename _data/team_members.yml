@@ -2,9 +2,9 @@
   photo: Nobel.jpg
   info: Vasser Woolley Professor of Chemistry
   email: dickson@chemistry.gatech.edu
-  number_educ: 5
-  education1: PhD of at <a href="http://www.google.com">somelink</a>, University of Chicago
-  education2: 
+  number_educ: 2
+  education1: Phd., University of Chicago, 1996
+  education2: B.A., Haverford College, 1991
   education3: 
   education4: 
   education5: 
@@ -23,7 +23,7 @@
   info: PhD Candidate
   email: bpeng34@gatech.edu
   number_educ: 2
-  education1: BA. University of Minnesota (2015)
+  education1: B.A., University of Minnesota (2015)
   education2: Proud maintainer of this website
   education3: 
 
@@ -59,9 +59,9 @@
   info: PhD Student
   email: jhickman33@gatech.edu
   number_educ: 3
-  education1: MS, Chemistry, East Carolina University (2020)
-  education2: BS, Chemistry, East Carolina University (2018) 
-  education3: BS, Mathematics, East Carolina University
+  education1: M.S., Chemistry, East Carolina University (2020)
+  education2: B.S., Chemistry, East Carolina University (2018) 
+  education3: B.S., Mathematics, East Carolina University
 
 - name: Sayan Palui
   photo: blankpic.jpg
