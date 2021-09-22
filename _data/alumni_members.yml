@@ -1,7 +1,7 @@
-- name: Aida Demissie
-  photo: blankpic.jpg
+- name: Dr. Aida Demissie
+  photo: aida.jpg
   duration: 
-  info: 
+  info: Consultant at Simon- Kucher & Partners
   email: 
   number_educ: 1
   education1: 
@@ -9,9 +9,9 @@
   education3:
   education4:
 
-- name: Alexandra Filbrun
-  photo: blankpic.jpg
-  info: PhD student
+- name: Dr. Alexandra Filbrun
+  photo: alex.jpg
+  info: Life Science Consultant
   duration: 
   email:
   number_educ: 3
