@@ -84,7 +84,8 @@ permalink: /team/
 {% endif %}
 
 <!-- This session was commented out  -->
-<!-- ## Master and Bachelor Students
+
+<!-- ## Master and Bachelor Students -->
 
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
@@ -94,7 +95,7 @@ permalink: /team/
 {% if even_odd == 0 %}
 
 <div class="row">
-{% endif %} -->
+{% endif %}
 
 <div class="col-sm-6 clearfix">
   <h4>{{ member.name }}</h4>

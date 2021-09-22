@@ -9,16 +9,16 @@
 #  education3:
 #  education4:
 
-- name: Student 1
-  photo: blankpic.jpg
-  info: Master student
-  email: 
-  number_educ: 0
-  education1:
+# - name: Student 1
+#   photo: blankpic.jpg
+#   info: Master student
+#   email: 
+#   number_educ: 0
+#   education1:
 
-- name: Student 2
-  photo: blankpic.jpg
-  info: BSc student
-  email: 
-  number_educ: 0
-  education1:
+# - name: Student 2
+#   photo: blankpic.jpg
+#   info: BSc student
+#   email: 
+#   number_educ: 0
+#   education1:
