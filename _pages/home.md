@@ -52,7 +52,7 @@ To this end, we develop ........ (see [Research](research)).
  **We are  looking for passionate new PhD students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-We are grateful for funding from Leiden University, [National Science Funcation](https://www.nsf.gov/) and ([NIH](https://www.nih.gov/).
+We are grateful for funding from Vasser Woolley Foundation, [National Science Funcation](https://www.nsf.gov/) and [NIH](https://www.nih.gov/).
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/GaTech.jpeg" style="width: 110px">
