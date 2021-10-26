@@ -37,19 +37,19 @@
   education3: 
 
 - name: Md Shariful
-  photo: md.jpg
+  photo: md.png
   info: PhD Candidate
   email: mislam62@gatech.edu
-  number_educ: 1
-  education1: 
-  education2: 
-  education3: 
+  number_educ: 2
+  education1: M.S., Analytical Chemistry, University of Dhaka (2012)
+  education2: B.S., Chemistry, University of Dhaka (2010)
+
 
 - name: Prakash Khanal
-  photo: blankpic.jpg
+  photo: prakash.png
   info: PhD Candidate
   email: pkhanal3@gatech.edu>
-  number_educ: 1
+  number_educ: 2
   education1: 
   education2: 
   education3: 
