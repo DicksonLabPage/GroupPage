@@ -38,7 +38,7 @@
 
 - name: Md Shariful
   photo: md.png
-  info: PhD Candidate
+  info: PhD Candidate <a href="https://www.linkedin.com/in/md-shariful-islam-04/">LinkedIn</a>
   email: mislam62@gatech.edu
   number_educ: 2
   education1: M.S., Analytical Chemistry, University of Dhaka (2012)
@@ -49,7 +49,7 @@
   photo: prakash.png
   info: PhD Candidate
   email: pkhanal3@gatech.edu>
-  number_educ: 2
+  number_educ: 1
   education1: B.S.,
   education2: 
   education3: 
